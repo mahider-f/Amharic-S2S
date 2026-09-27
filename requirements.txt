@@ -1,0 +1,9 @@
+torch
+transformers
+huggingface-hub
+gradio>=5.0,<7.0
+soundfile
+scipy
+numpy
+uroman
+llama-cpp-python
